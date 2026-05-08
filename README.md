@@ -38,7 +38,8 @@ Twilio Account SID
 Auth Token,
 Run the Python script:
 python project.py
-<img width="1536" height="1024" alt="ChatGPT Image May 8, 2026, 11_07_24 PM" src="https://github.com/user-attachments/assets/289fe650-8173-474b-a12c-9347859ddabb" />
+<img width="1536" height="1024" alt="ChatGPT Image May 8, 2026, 11_22_27 PM" src="https://github.com/user-attachments/assets/50dfdd1b-fb72-414c-b29b-9f64f7521294" />
+
 
 🎯 Project Goal
 
